@@ -22,3 +22,7 @@ Start at `/01-overview` and follow the sequence.
 
 ## Contribute
 Issues for discussion, PRs for changes.
+
+## Community
+Questions, ideas, and proposals live here:
+- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
