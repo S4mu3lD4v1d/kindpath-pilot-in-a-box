@@ -24,5 +24,7 @@ Start at `/01-overview` and follow the sequence.
 Issues for discussion, PRs for changes.
 
 ## Community
-Questions, ideas, and proposals live here:
-- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+Pilot questions, implementation ideas, and partnership interest:
+https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+
+If you’re proposing a concrete change to the kit, open an Issue or PR in this repo.
